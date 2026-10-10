@@ -1,0 +1,6 @@
+name = "tgoop"
+main = "telegram_webproxy.js"
+compatibility_date = "2025-01-01"
+
+[observability]
+enabled = false
